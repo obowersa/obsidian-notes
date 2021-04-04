@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "884273f3cd5bb214",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a44f9a5644c2d47",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian Note taking with Zettlekasten.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70feecb73167cfd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ece6069d90ee02c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8861e10400454a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3a990457e20f1cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94539dbeee3ae5df",
+    "type": "split",
+    "children": [
+      {
+        "id": "98b609d0017d223e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70b57adb4fec86bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Note taking with Zettlekasten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Obsidian Note taking with Zettlekasten.md",
+    "The zettlekasten method examples to help you get started.md",
+    "DOTNET.md",
+    "Untitled.md",
+    "TLA+.md",
+    "TLA+ literature list.md",
+    "Hill Wayne.md",
+    "Lamport TLA.md",
+    "Practical TLA Planning Driven Development.md"
+  ]
+}

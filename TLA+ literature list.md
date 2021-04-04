@@ -1,0 +1,3 @@
+- [[ Practical TLA Planning Driven Development]]
+- [[ Hillel Wayne]]
+- [[ Lamport TLA]]
