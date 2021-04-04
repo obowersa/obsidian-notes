@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian Note taking with Zettlekasten.md",
-            "mode": "preview"
+            "file": "TerJira.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Note taking with Zettlekasten.md",
+                "file": "TerJira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Obsidian Note taking with Zettlekasten.md",
     "The zettlekasten method examples to help you get started.md",
     "DOTNET.md",
-    "Untitled.md",
     "TLA+.md",
     "TLA+ literature list.md",
     "Hill Wayne.md",
