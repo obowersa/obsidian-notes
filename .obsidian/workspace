@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TerJira.md",
+            "file": "TLA+.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TerJira.md",
+                "file": "TLA+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
+    "TLA+.md",
     "Obsidian Note taking with Zettlekasten.md",
+    "TLA+ 1bit clock.md",
+    "TLA+ literature list.md",
+    "TerJira.md",
+    "Practical TLA Planning Driven Development.md",
+    "Untitled.md",
     "The zettlekasten method examples to help you get started.md",
     "DOTNET.md",
-    "TLA+.md",
-    "TLA+ literature list.md",
-    "Hill Wayne.md",
-    "Lamport TLA.md",
-    "Practical TLA Planning Driven Development.md"
+    "Hill Wayne.md"
   ]
 }
