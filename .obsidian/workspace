@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TLA+.md",
+            "file": "Contract Testing.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TLA+.md",
+                "file": "Contract Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "TLA+.md",
     "Untitled.md",
+    "pact go.md",
+    "Pact.io.md",
+    "TLA+.md",
+    "TLA+ 1bit clock.md",
     "Untitled 1.md",
     "DOTNET.md",
     "TLA+ literature list.md",
     "TerJira.md",
-    "TLA+ 1bit clock.md",
-    "Obsidian Note taking with Zettlekasten.md",
-    "Practical TLA Planning Driven Development.md",
-    "The zettlekasten method examples to help you get started.md"
+    "Obsidian Note taking with Zettlekasten.md"
   ]
 }
