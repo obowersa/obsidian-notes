@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Recruitment.md",
+            "file": "TLA+.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recruitment.md",
+                "file": "TLA+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,12 +86,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "TLA+.md",
     "Untitled.md",
     "Untitled 1.md",
     "DOTNET.md",
     "TLA+ literature list.md",
     "TerJira.md",
-    "TLA+.md",
     "TLA+ 1bit clock.md",
     "Obsidian Note taking with Zettlekasten.md",
     "Practical TLA Planning Driven Development.md",
