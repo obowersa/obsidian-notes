@@ -1,0 +1,1 @@
+[[Cleaner entity configuration with EFCore]]

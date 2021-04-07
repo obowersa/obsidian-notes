@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contract Testing.md",
+            "file": "Cleaner entity configuration with EFCore.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contract Testing.md",
+                "file": "Cleaner entity configuration with EFCore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Cleaner entity configuration with EFCore.md",
+    "Hillel Wayne.md",
+    "DOTNET.md",
     "Untitled.md",
+    "Why Women dont apply for jobs unless they're 100% qualified.md",
     "pact go.md",
     "Pact.io.md",
     "TLA+.md",
     "TLA+ 1bit clock.md",
-    "Untitled 1.md",
-    "DOTNET.md",
-    "TLA+ literature list.md",
-    "TerJira.md",
-    "Obsidian Note taking with Zettlekasten.md"
+    "Untitled 1.md"
   ]
 }
