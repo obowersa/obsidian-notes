@@ -23,3 +23,5 @@ This allows for splitting the definitions into class specific files
 
 ---
 https://dotnetcoretutorials.com/2020/06/27/a-cleaner-way-to-do-entity-configuration-with-ef-core/
+
+#dotnet 

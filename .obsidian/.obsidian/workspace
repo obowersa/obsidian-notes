@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "884273f3cd5bb214",
+    "id": "34e2cbbaf719128a",
     "type": "split",
     "children": [
       {
-        "id": "8a44f9a5644c2d47",
+        "id": "6fe2591b2e312634",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "c-sharp cross platform filepaths.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "70feecb73167cfd7",
+    "id": "fc7f2aaefed17063",
     "type": "split",
     "children": [
       {
-        "id": "1ece6069d90ee02c",
+        "id": "c57518d15a4889af",
         "type": "tabs",
         "children": [
           {
-            "id": "f8861e10400454a9",
+            "id": "5d908c9ed455970e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +31,12 @@
             }
           },
           {
-            "id": "c3a990457e20f1cf",
+            "id": "80bd03a4c781cfc3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#c-sharp-libraries",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,20 +52,19 @@
     "width": 300
   },
   "right": {
-    "id": "94539dbeee3ae5df",
+    "id": "47369e67db8d068e",
     "type": "split",
     "children": [
       {
-        "id": "98b609d0017d223e",
+        "id": "5b42c1e548882fb3",
         "type": "tabs",
         "children": [
           {
-            "id": "70b57adb4fec86bb",
+            "id": "1d72fe7a9f9f9fda",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c-sharp cross platform filepaths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8861e10400454a9",
+  "active": "6fe2591b2e312634",
   "lastOpenFiles": [
-    "c-sharp SystemIO.md",
-    "c-sharp environment library.md",
-    "c-sharp-enum-flags.md",
-    "c-sharp abstract classes.md",
-    "c-sharp-pattern matching.md",
-    "dotnet-6-priority queue.md",
-    "c-sharp Spans.md",
-    "c-sharp-8-index.md",
-    "c-sharp collection performance notes.md",
-    "c-sharp collection methods.md"
+    "themes/INSTALL.md"
   ]
 }
